@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Editorial Autoral",
+  "description": "Landing page editorial cinematográfica para pequenos negócios, com direção de arte mineral, tipografia fluida e arquitetura desacoplada de conteúdo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
